@@ -913,7 +913,7 @@ elif page == "❓ Q&A Insights":
         {
             "q": "1️⃣ What is the dataset about?",
             "a": (
-                "The dataset comes from **Datafiniti** and covers **7,000+ consumer electronics products** "
+                "The dataset comes from **Datafiniti** and covers **14,000+ consumer electronics products** "
                 "across major US retailers — Amazon, Best Buy, and Walmart. It captures pricing dynamics "
                 "including sale prices, shipping costs, product conditions, brand names, and merchant details. "
                 "The goal is to **predict the average price** of a product given its attributes."
